@@ -1,0 +1,15 @@
+/Users/alenabolotina/Documents/DZ#2/#13/bin/Debug/net6.0/#13
+/Users/alenabolotina/Documents/DZ#2/#13/bin/Debug/net6.0/#13.deps.json
+/Users/alenabolotina/Documents/DZ#2/#13/bin/Debug/net6.0/#13.runtimeconfig.json
+/Users/alenabolotina/Documents/DZ#2/#13/bin/Debug/net6.0/#13.dll
+/Users/alenabolotina/Documents/DZ#2/#13/bin/Debug/net6.0/#13.pdb
+/Users/alenabolotina/Documents/DZ#2/#13/obj/Debug/net6.0/#13.csproj.AssemblyReference.cache
+/Users/alenabolotina/Documents/DZ#2/#13/obj/Debug/net6.0/#13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenabolotina/Documents/DZ#2/#13/obj/Debug/net6.0/#13.AssemblyInfoInputs.cache
+/Users/alenabolotina/Documents/DZ#2/#13/obj/Debug/net6.0/#13.AssemblyInfo.cs
+/Users/alenabolotina/Documents/DZ#2/#13/obj/Debug/net6.0/#13.csproj.CoreCompileInputs.cache
+/Users/alenabolotina/Documents/DZ#2/#13/obj/Debug/net6.0/#13.dll
+/Users/alenabolotina/Documents/DZ#2/#13/obj/Debug/net6.0/refint/#13.dll
+/Users/alenabolotina/Documents/DZ#2/#13/obj/Debug/net6.0/#13.pdb
+/Users/alenabolotina/Documents/DZ#2/#13/obj/Debug/net6.0/#13.genruntimeconfig.cache
+/Users/alenabolotina/Documents/DZ#2/#13/obj/Debug/net6.0/ref/#13.dll
